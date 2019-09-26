@@ -1,2 +1,2 @@
 # tunakan
-slack-spitii-neccos
+tunakan.jp
